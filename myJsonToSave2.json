@@ -1,0 +1,8 @@
+{
+    "myString": "StringToSave",
+    "myArray": ["one", "two"],
+    "myObject": {
+        "data": "teste3"
+    }
+
+}
